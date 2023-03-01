@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a former Management Consultant specialized in product management assistance in various Operations services lines (Purchasing / Supply-Chain / Logistics / Manufacturing).<br>These experiences have allowed me to intervene in business process analysis and software conception.<br><br>After 6 years of advising large companies(ENGIE / LVMH / Total / PSA Peugeot Citroën / Savencia / SNCF / Gefco) in their digital transformation, I decided to retrain as a Software Engineer.
+I am a former Management Consultant specialized in product management assistance in various Operations services lines (Purchasing / Supply-Chain / Logistics / Manufacturing).<br>These experiences have allowed me to intervene in business process analysis and software conception.<br><br>After 6 years of advising large companies (ENGIE / LVMH / Total / PSA Peugeot Citroën / Savencia / SNCF / Gefco) in their digital transformation, I decided to retrain as a Software Engineer.
 
 🔭 I’m looking for a new adventure in web3 as a Software Engineer<br>
 🌱 I’m currently learning about cybersecurity with the COMPTIA Security+ certification
